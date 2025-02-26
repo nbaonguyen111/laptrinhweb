@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nội dung từ main
+=======
+Nội dung từ test_conflict
+>>>>>>> test_conflictj
